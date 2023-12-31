@@ -73,3 +73,12 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+Deployment
+This will create a single binary containing Nuxt and PocketBase for deployment.
+
+  yarn build:prod
+  ./pocketnuxt serve --http "127.0.0.1:80" --https "127.0.0.1:443"
+
+

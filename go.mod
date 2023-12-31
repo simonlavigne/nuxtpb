@@ -1,6 +1,6 @@
-module github.com/j-wil/pocket-nuxt
+module github.com/simonlavigne/nuxtpb
 
-go 1.19
+go 1.20
 
 require (
 	github.com/labstack/echo/v5 v5.0.0-20220201181537-ed2888cfa198
