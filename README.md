@@ -79,6 +79,6 @@ Deployment
 This will create a single binary containing Nuxt and PocketBase for deployment.
 
   yarn build:prod
-  ./pocketnuxt serve --http "127.0.0.1:80" --https "127.0.0.1:443"
+  ./nuxtpb serve --http "aaicn.solutions:80" --https "aaicn.solutions:443"
 
 
